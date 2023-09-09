@@ -130,12 +130,18 @@ With this adjusted hourly probability, we can expect the event to occur, on aver
 | Month    | 28875.6421 ETH ($4 7200 990.87) | 75.6421 ETH ($123 646.87)   | $99 340.11   | 0.21 %      |
 | Year     | 29685.7724 ETH ($4 8525 254.06) | 885.7724 ETH ($1447 910.06) | $1162 314.68 | 2.47 %      |
 
-| Per Day | Simulated Occurrence on Average per Day (monthly) | Monthly MEV Boost Guesstimate |
-| ---: | ---: | ---: | ---: |
-| Big Lottery 2.134182044 | 1 | 64.02546132 |
-| Little Lottery 0.7054698457 | 7 | 148.1486676 |
-|  |  | 212.1741289 |
-|  | Simulated Monthly | 2546.089547 |
+### Results
+
+![](./assets/results.png)
+
+64.02546132 Monthly Big Lottery (in ETH)     
+148.1486676 Monthly Little Lottery (in ETH)     
+2,546.089547 Yearly Combined (in ETH)     
+4,161,914.356 USD ETH in MEV Rewards     
 
 
-4,161,914.356 USD ETH in MEV
+![](./assets/tarantino-reject.gif)
+
+
+$5,324,229.036 USD ETH in Total Rewards Per Stated Assumptions     
+
